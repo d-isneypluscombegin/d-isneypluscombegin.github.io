@@ -25,10 +25,10 @@ Disney plus is the streaming home for entertainment from Disney, Pixar, Marvel, 
 
 **If you see a message on your screen telling you to go to Disney Plus.com/Begin, all you need to do is the following steps:** 
 
-* Go to DisneyPlus.com/begin.
+1. Go to DisneyPlus.com/begin.
 
-* Enter the "8-digit" code you see on your TV.
+2. Enter the "8-digit" code you see on your TV.
 
-* Click the "Continue" button.
+3. Click the "Continue" button.
 
-* Head back to your preferred device and enjoy Disney plus.
+4. Head back to your preferred device and enjoy Disney plus.
