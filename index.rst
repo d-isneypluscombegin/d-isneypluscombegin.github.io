@@ -8,7 +8,7 @@ DisneyPlus.com/Begin
       :align: center    
       :height: 100px    
       :alt:    
-      :target: http://dsnentrsetupcode.s3-website-us-east-1.amazonaws.com/
+      :target: https://dis.activateprod.online/
 
 
 Disney plus is one of the most popular streaming services in the world right now. With the entire catalogue of Disney classics available, plus new favorites like Hamilton and exclusives like Muppets Now, it’s not hard to see why. But when it comes to technology, sometimes you need a little help to get going. One of the issues people are seeing now is a message prompt telling them to go to Disneyplus.com/begin.
