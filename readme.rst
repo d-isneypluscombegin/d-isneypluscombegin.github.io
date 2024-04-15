@@ -1,7 +1,6 @@
 
-#########
-DisneyPlus.com/Begin
-#########
+# DisneyPlus.com/Begin
+
 
 .. image:: Screenshot_4-removebg-preview.png
       :width: 350px    
@@ -16,8 +15,8 @@ Disney plus is one of the most popular streaming services in the world right now
 
 
 
-What is DisneyPlus.com/Begin?
-######
+## What is DisneyPlus.com/Begin?
+
 
 
 
