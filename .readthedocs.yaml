@@ -1,4 +1,5 @@
-version: 2  
+version: 2
+
 sphinx:
   configuration: docs/conf.py  
 
@@ -10,3 +11,5 @@ python:
 
 build:
   os: ubuntu-20.04  
+  commands:
+    - sphinx-build -b html docs/ build/html  
